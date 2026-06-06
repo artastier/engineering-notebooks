@@ -1,2 +1,7 @@
 matplotlib
 numpy
+scikit-learn
+torch
+torchvision
+opendatasets
+legacy-cgi; python_version >= '3.13'
