@@ -15,3 +15,4 @@ pip install -r ./requirements.txt
 - [System Control](./2-SystemControl.ipynb)
 - [Path Planning](./3-PathPlanning.ipynb)
 - [AI For Medicine](./4-AIForMedicine.ipynb)
+- [Object Detection](./5-ObjectDetection.ipynb)
