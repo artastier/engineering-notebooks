@@ -5,3 +5,6 @@ torch
 torchvision
 opendatasets
 legacy-cgi; python_version >= '3.13'
+opencv-python
+pyrealsense2
+ultralytics
