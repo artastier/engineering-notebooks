@@ -7,10 +7,11 @@ class AStarOptimizer:
     @staticmethod
     def get_heuristic(p1, p2, method="manhattan"):
         if method == "manhattan":
-            return abs(p1[0] - p2[0]) + abs(p1[1] - p2[1])
+            # TODO
+            pass
         elif method == "euclidean":
-            # TODO: Complete the euclidean mathematical distance representation
-            return np.sqrt((p1[0] - p2[0]) ** 2 + (p1[1] - p2[1]) ** 2)
+            # TODO
+            pass
         return 0
 
     @staticmethod
